@@ -1,5 +1,5 @@
-**Note: Sensitive internal tools have been abstracted to maintain privacy.**
-📝 Automated User Manual
+
+📝 Automated User Manual GENERATOR
 
 Hi there! 👋 I’m Pavithra, and this project is an Automated User Manual Generator that simplifies documenting web applications and workflows.
 
