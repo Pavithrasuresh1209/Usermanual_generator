@@ -1,5 +1,6 @@
 
-📝 Automated User Manual GENERATOR
+📝 Automated User Manual generator
+
 
 Hi there! 👋 I’m Pavithra, and this project is an Automated User Manual Generator that simplifies documenting web applications and workflows.
 
